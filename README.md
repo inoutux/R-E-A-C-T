@@ -1,8 +1,8 @@
 # R-E-A-C-T
 Ejercicio React.js
 
-Git Clone 
-npm install
-npm start
+1> Git Clone 
+2> npm install
+3> npm start
 
 Enjoy :)
