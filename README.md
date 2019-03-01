@@ -10,3 +10,6 @@ Ejercicio React > Lista de Tareas
 #4> npm start
 
 Enjoy :)
+
+
+p.s.: Definición de componentes > Elementos visuales con su propio estado que recibe propiedades e implementa su propia lógica de renderizado.
